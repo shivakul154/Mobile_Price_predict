@@ -43,7 +43,8 @@ python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
 # Install required packages
-pip install -r requirements.txt'''
+pip install -r requirements.txt
+'''
 
 ---
 ##✍️ Author
