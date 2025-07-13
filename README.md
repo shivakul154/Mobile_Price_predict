@@ -50,7 +50,8 @@ pip install -r requirements.txt
 ---
 ## ✍️ Author
 Shivansh Kulshrestha
-GitHub Profile
+[GitHub Profile](https://github.com/shivakul154)
+
 ---
 ## 📄 License
 This project is licensed under the MIT License.
